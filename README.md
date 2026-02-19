@@ -26,13 +26,19 @@ Go to the [**Releases**](../../releases/latest) page and download the `.zip` fil
 
 Unzip and run `BitmapperLite.exe` — no installation required.
 
-### Windows may block the download and app — here's how to fix it
+### Windows may block the download — here's how to fix it
 
-1. **Browser blocks the download** — Click the `...` menu next to the download and choose **"Keep"**. If prompted again, click **"Keep anyway"**.
-2. **Windows Defender flags the file** — Open **Windows Security > Virus & threat protection > Protection history**, find the quarantined file, and choose **"Allow"**.
-3. **SmartScreen warning on first run** — Click **"More info"** then **"Run anyway"**.
+This app is not yet code-signed, so Windows treats it as unknown software. This is normal and safe to override.
 
-This is normal for any new unsigned software. The warnings will stop as more people download the app.
+1. **Browser blocks the download** — Click the `...` or `^` menu next to the download and choose **"Keep"**. If prompted again, click **"Keep anyway"**.
+2. **Unblock the zip before extracting** — Right-click the downloaded `.zip` file → **Properties** → check **"Unblock"** at the bottom → **OK**. Then extract the zip.
+3. **Windows Defender blocks the EXE** — If Defender removes or quarantines the file:
+   - Open **Windows Security** → **Virus & threat protection** → **Protection history**
+   - Find the `BitmapperLite.exe` entry → click **Actions** → **Allow on device**
+   - Re-extract the zip
+4. **SmartScreen warning on first run** — Click **"More info"** → **"Run anyway"**.
+
+> **Why does this happen?** The app is compiled from Python to a native executable using Nuitka. Antivirus software sometimes flags these builds because the format is uncommon. The app is open-source and contains no malware.
 
 ## System Requirements
 
