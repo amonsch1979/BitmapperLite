@@ -1,0 +1,34 @@
+MagicToolbox Bitmapper Lite - Freeware License
+
+Copyright (c) 2026 MagicToolbox / Feignasse. All rights reserved.
+
+Permission is granted, free of charge, to any person obtaining a copy
+of this software ("Bitmapper Lite"), to use the software for any
+purpose, including commercial lighting productions, subject to the
+following conditions:
+
+1. USAGE: You may use this software freely for personal, educational,
+   and commercial purposes at no cost.
+
+2. REDISTRIBUTION: You may share unmodified copies of the original
+   executable file, provided this license is included and no fee is
+   charged for the software itself.
+
+3. NO MODIFICATION: You may not modify, decompile, reverse engineer,
+   disassemble, or create derivative works based on this software.
+
+4. NO SUBLICENSING: You may not sublicense, sell, or lease this
+   software or any portion thereof.
+
+5. ATTRIBUTION: If you redistribute this software, you must retain
+   all copyright notices and this license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This software uses Qt/PySide6 (LGPL v3) for its graphical interface.

@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+app_debug.log
+build/
+dist/
+*.egg-info/
+
+# Source code (kept private, only EXE distributed via releases)
+bitmapper_lite/
+showmerger_core/
+run_bitmapper_lite.py
+requirements.txt
+BitmapperLite.spec
+build_nuitka.bat
+app_icon.ico
+byfeignasse_logo_1.png
+sign_exe.ps1
+RELEASE_NOTES.md
+SESSION_*.md
+BitmapperLite_macOS_Build/
+BitmapperLite_macOS_Build.zip
