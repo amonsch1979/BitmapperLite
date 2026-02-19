@@ -18,16 +18,21 @@ Design custom button bitmaps for your MagicQ execute pages — presets, custom c
 - **Apply Mode** — Click buttons on the grid to apply your bitmap design instantly
 - **Visual PDF Catalog** — Every export includes a `bitmap_catalog.pdf` showing each bitmap with its filename, so you know exactly which file to assign in MagicQ
 - **Smart Output Folder** — Auto-creates a bitmap folder inside your show's `bitmaps/` directory
-- **Read-Only** — Never modifies your .shw show file. Loads and reads only.
 - **Fader & Encoder Support** — Not just buttons — design track/knob and base/dial bitmaps too
 
 ## Download
 
-Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite.exe`**.
+Go to the [**Releases**](../../releases/latest) page and download the `.zip` file.
 
-No installation required — just run the EXE.
+Unzip and run `BitmapperLite.exe` — no installation required.
 
-> **Windows SmartScreen warning:** Because this app is new and not yet code-signed, Windows may show a "Windows protected your PC" warning. This is normal for any new software. Click **"More info"** then **"Run anyway"** to proceed. The warning will stop appearing automatically as more people download the app.
+### Windows may block the download and app — here's how to fix it
+
+1. **Browser blocks the download** — Click the `...` menu next to the download and choose **"Keep"**. If prompted again, click **"Keep anyway"**.
+2. **Windows Defender flags the file** — Open **Windows Security > Virus & threat protection > Protection history**, find the quarantined file, and choose **"Allow"**.
+3. **SmartScreen warning on first run** — Click **"More info"** then **"Run anyway"**.
+
+This is normal for any new unsigned software. The warnings will stop as more people download the app.
 
 ## System Requirements
 
