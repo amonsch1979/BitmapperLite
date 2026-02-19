@@ -19,10 +19,12 @@ Design custom button bitmaps for your MagicQ execute pages — presets, custom c
 - **Visual PDF Catalog** — Every export includes a `bitmap_catalog.pdf` showing each bitmap with its filename, so you know exactly which file to assign in MagicQ
 - **Smart Output Folder** — Auto-creates a bitmap folder inside your show's `bitmaps/` directory
 - **Fader & Encoder Support** — Not just buttons — design track/knob and base/dial bitmaps too
+- **Multi-Page Export** — Style buttons across multiple execute pages, then export everything at once with deduplication
+- **Close Warning** — Warns you before closing if you have unexported bitmap styles
 
 ## Download & Install
 
-Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite_Setup_v1.0.2-beta.exe`** (26 MB).
+Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite_Setup_v1.0.3-beta.exe`** (26 MB).
 
 Run the installer and follow the setup wizard. It installs to Program Files with a Start Menu shortcut and optional desktop shortcut.
 
