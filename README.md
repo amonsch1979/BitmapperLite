@@ -20,25 +20,13 @@ Design custom button bitmaps for your MagicQ execute pages — presets, custom c
 - **Smart Output Folder** — Auto-creates a bitmap folder inside your show's `bitmaps/` directory
 - **Fader & Encoder Support** — Not just buttons — design track/knob and base/dial bitmaps too
 
-## Download
+## Download & Install
 
-Go to the [**Releases**](../../releases/latest) page and download the `.zip` file.
+Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite_Setup_v1.0.2-beta.exe`** (26 MB).
 
-Unzip and run `BitmapperLite.exe` — no installation required.
+Run the installer and follow the setup wizard. It installs to Program Files with a Start Menu shortcut and optional desktop shortcut.
 
-### Windows may block the download — here's how to fix it
-
-This app is not yet code-signed, so Windows treats it as unknown software. This is normal and safe to override.
-
-1. **Browser blocks the download** — Click the `...` or `^` menu next to the download and choose **"Keep"**. If prompted again, click **"Keep anyway"**.
-2. **Unblock the zip before extracting** — Right-click the downloaded `.zip` file → **Properties** → check **"Unblock"** at the bottom → **OK**. Then extract the zip.
-3. **Windows Defender blocks the EXE** — If Defender removes or quarantines the file:
-   - Open **Windows Security** → **Virus & threat protection** → **Protection history**
-   - Find the `BitmapperLite.exe` entry → click **Actions** → **Allow on device**
-   - Re-extract the zip
-4. **SmartScreen warning on first run** — Click **"More info"** → **"Run anyway"**.
-
-> **Why does this happen?** The app is compiled from Python to a native executable using Nuitka. Antivirus software sometimes flags these builds because the format is uncommon. The app is open-source and contains no malware.
+> **Windows SmartScreen warning:** This app is not yet code-signed, so Windows shows a one-time warning. Click **"More info"** → **"Run anyway"**. This is normal for new unsigned software and is safe to proceed.
 
 ## System Requirements
 
