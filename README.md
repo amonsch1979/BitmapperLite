@@ -60,9 +60,7 @@ The PDF catalog (`bitmap_catalog.pdf`) is your visual reference — it shows eve
 
 ## About
 
-Built by **MagicToolbox / Feignasse** for the MagicQ lighting community.
-
-Part of the [MagicToolbox](https://github.com/MagicToolbox) suite of tools for ChamSys MagicQ.
+Built by **ByFeignasse** for the MagicQ lighting community.
 
 ## License
 
