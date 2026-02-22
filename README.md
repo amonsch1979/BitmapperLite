@@ -8,6 +8,8 @@ Design custom button bitmaps for your MagicQ execute pages — presets, custom c
 
 ![Color Palette Wizard — auto-generate unique colors for all buttons](screenshots/color_palette_wizard.png)
 
+[![Intro Video — Bitmapper Lite](https://img.youtube.com/vi/3j7hPkbdQhE/0.jpg)](https://youtu.be/3j7hPkbdQhE)
+
 ---
 
 ## Features
