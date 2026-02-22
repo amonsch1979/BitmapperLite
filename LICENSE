@@ -31,4 +31,11 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+DISCLAIMER: This software is an independent third-party tool and is not
+affiliated with, endorsed by, or associated with ChamSys Ltd in any way.
+"MagicQ" is a registered trademark of ChamSys Ltd. All trademarks belong
+to their respective owners. This software reads user-created MagicQ show
+files (.shw) in read-only mode and does not contain, modify, or
+redistribute any ChamSys software or proprietary materials.
+
 This software uses Qt/PySide6 (LGPL v3) for its graphical interface.

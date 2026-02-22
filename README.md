@@ -76,6 +76,10 @@ The PDF catalog (`bitmap_catalog.pdf`) is your visual reference — it shows eve
 ### v1.0.0-beta (2026-02-19)
 - Initial release
 
+## Disclaimer
+
+This software is an independent third-party tool and is **not affiliated with, endorsed by, or associated with ChamSys Ltd** in any way. "MagicQ" is a registered trademark of ChamSys Ltd. All trademarks belong to their respective owners. This software reads user-created MagicQ show files (.shw) in read-only mode and does not contain, modify, or redistribute any ChamSys software or proprietary materials.
+
 ## About
 
 Built by **ByFeignasse** for the MagicQ lighting community.
