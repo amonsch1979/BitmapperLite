@@ -1,6 +1,6 @@
 # MagicToolbox Bitmapper Lite
 
-**Free bitmap builder for MagicQ execute grids.**
+**Free bitmap builder for MagicQ execute grids. Windows only.**
 
 Design custom button bitmaps for your MagicQ execute pages — presets, custom colors, shapes, icons, and the famous duck mode. Export ready-to-use PNGs with a visual PDF catalog.
 
@@ -24,7 +24,7 @@ Design custom button bitmaps for your MagicQ execute pages — presets, custom c
 - **Multi-Page Export** — Style buttons across multiple execute pages, then export everything at once with deduplication
 - **Close Warning** — Warns you before closing if you have unexported bitmap styles
 
-## Download & Install
+## Download & Install (Windows only)
 
 Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite_Setup_v1.0.4-beta.exe`** (26 MB).
 
