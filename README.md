@@ -26,7 +26,7 @@ Design custom button bitmaps for your MagicQ execute pages — presets, custom c
 
 ## Download & Install (Windows only)
 
-Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite_Setup_v1.0.4-beta.exe`** (26 MB).
+Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite_Setup_v1.0.5-beta.exe`** (26 MB).
 
 Run the installer and follow the setup wizard. It installs to Program Files with a Start Menu shortcut and optional desktop shortcut.
 
@@ -59,6 +59,22 @@ The PDF catalog (`bitmap_catalog.pdf`) is your visual reference — it shows eve
 - The output folder defaults to `<your show folder>/bitmaps/<showname>/` — MagicQ can load bitmaps directly from there
 - Bitmap filenames stay under 40 characters to fit MagicQ's command_text field limit
 - Export multiple times — the PDF catalog updates to include all bitmaps in the folder
+
+## Changelog
+
+### v1.0.5-beta (2026-02-22)
+- **Fix:** Color Palette Wizard now correctly extracts palette colors — previously all bitmaps rendered white on showfiles where the first fixture type uses a colour wheel instead of CMY/RGB mixing
+- **Fix:** Macros on execute grids are now correctly identified and displayed as "M" (Macro) instead of "Lay" (Layout)
+- **Fix:** Execute item type mappings corrected for Colour, Beam, and Position palettes
+- **New:** Name-based color fallback — palettes with only colour wheel data (no CMY/RGB) now guess the color from the palette name (e.g. "Red", "Congo Blue", "White")
+
+### v1.0.4-beta (2026-02-20)
+- Multi-page export with deduplication
+- Close warning for unexported bitmap styles
+- YouTube intro video added
+
+### v1.0.0-beta (2026-02-19)
+- Initial release
 
 ## About
 
