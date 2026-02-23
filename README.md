@@ -16,6 +16,9 @@ Design custom button bitmaps for your MagicQ execute pages — presets, custom c
 
 - **11 Built-in Presets** — Glass, Neon, Flat, Gradient, Metallic, Launchpad, LED Dot, Arcade, MagicQ, Console, and Duck
 - **Full Customization** — Shape, corner radius, gradient direction, colors (fill, border, label), opacity, icons
+- **80 Vector Icons** — Arrows, Position (fan out/in, crossed, spread, converge), Lamp, Color, Beam, Effects, Fixtures, Transport, Numbers 0–9, Symbols, and Media categories
+- **Freehand Drawing Tool** — Draw custom icon shapes on a canvas with adjustable brush size and eraser
+- **Auto-Fit Text Labels** — Add custom text that automatically shrinks to fit the button — never cropped
 - **Color Palette Wizard** — Auto-generate unique color schemes across all your execute buttons with one click
 - **Apply Mode** — Click buttons on the grid to apply your bitmap design instantly
 - **Visual PDF Catalog** — Every export includes a `bitmap_catalog.pdf` showing each bitmap with its filename, so you know exactly which file to assign in MagicQ
@@ -61,6 +64,14 @@ The PDF catalog (`bitmap_catalog.pdf`) is your visual reference — it shows eve
 - Export multiple times — the PDF catalog updates to include all bitmaps in the folder
 
 ## Changelog
+
+### v1.0.6-beta (2026-02-23)
+- **New: 80 Vector Icons** — Expanded icon library from 43 to 80 icons across 11 categories including new Position, Numbers, Symbols, and Media categories
+- **New: Position Icons** — 12 purpose-built icons for position palettes: Fan Out/In (horizontal & vertical), Fan Down, Crossed, All Up/Down/Left/Right, Spread, Converge, and Diagonal Fan
+- **New: Freehand Drawing Tool** — Draw custom icon shapes directly on a paint-like canvas with adjustable brush size and eraser — click "Draw..." in the Icon section
+- **New: Auto-Fit Text Labels** — Label text on buttons now auto-shrinks to fit the available width instead of being cropped with "..."
+- **New: Label Text Field** — Added a dedicated Label section to the editor panel with text input and color picker
+- **Fix:** Switching presets no longer clears your icon, drawing, or label — only the Clear button resets them
 
 ### v1.0.5-beta (2026-02-22)
 - **Fix:** Color Palette Wizard now correctly extracts palette colors — previously all bitmaps rendered white on showfiles where the first fixture type uses a colour wheel instead of CMY/RGB mixing
