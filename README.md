@@ -29,7 +29,7 @@ Design custom button bitmaps for your MagicQ execute pages — presets, custom c
 
 ## Download & Install (Windows only)
 
-Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite_Setup_v1.0.5-beta.exe`** (26 MB).
+Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite_Setup_v1.0.6-beta.exe`** (26 MB).
 
 Run the installer and follow the setup wizard. It installs to Program Files with a Start Menu shortcut and optional desktop shortcut.
 
