@@ -29,7 +29,7 @@ Design custom button bitmaps for your MagicQ execute pages — presets, custom c
 
 ## Download & Install (Windows only)
 
-Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite_Setup_v1.0.6-beta.exe`** (26 MB).
+Go to the [**Releases**](../../releases/latest) page and download **`BitmapperLite_Setup_v1.0.7-beta.exe`** (26 MB).
 
 Run the installer and follow the setup wizard. It installs to Program Files with a Start Menu shortcut and optional desktop shortcut.
 
@@ -64,6 +64,9 @@ The PDF catalog (`bitmap_catalog.pdf`) is your visual reference — it shows eve
 - Export multiple times — the PDF catalog updates to include all bitmaps in the folder
 
 ## Changelog
+
+### v1.0.7-beta (2026-02-25)
+- **Fix:** Text labels now correctly display in grid cell previews and exported bitmap PNGs — previously only showed in the editor panel preview
 
 ### v1.0.6-beta (2026-02-23)
 - **New: 80 Vector Icons** — Expanded icon library from 43 to 80 icons across 11 categories including new Position, Numbers, Symbols, and Media categories
